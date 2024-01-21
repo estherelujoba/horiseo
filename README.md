@@ -1,7 +1,7 @@
 # horiseo
 
 ## Description
-LANADINg site for a company called Horiseon
+Landing page website for a company called Horiseon
 
 
 ## Deployed Link
